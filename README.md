@@ -6,6 +6,7 @@ You can control the light and shadow color，shadeshift，toony uniform and the 
 And the Outline width can be control with a Mask Map.
 
 ![img](https://github.com/bladesero/MToonShaderforGodot/blob/master/Materialshow.png)
+![img](https://github.com/bladesero/MToonShaderforGodot/blob/master/params.png)
 
 There is a Demo of VRoid Studio Style Character:
 
