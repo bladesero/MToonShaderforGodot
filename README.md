@@ -10,4 +10,4 @@ And the Outline width can be control with a Mask Map.
 
 There is a Demo of VRoid Studio Style Character:
 
-<div align=center><img width="732" height="620" src="https://github.com/bladesero/MToonShaderforGodot/blob/master/VRoidStyle.png"/></div>
+![img](https://github.com/bladesero/MToonShaderforGodot/blob/master/VRoidStyle.png)
